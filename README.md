@@ -1,2 +1,2 @@
-Vous avez là, le fichier packet tracer dans lequel j'ai fait la simulation d'une configuration de VLAN.
-Le resusltat de la configuration des switch est disponible en capture d'écran
+Here is the Packet Tracer file in which I have simulated a VLAN configuration.
+A screenshot showing the result of the switch configuration is available
